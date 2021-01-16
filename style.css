@@ -103,7 +103,7 @@ html{
 
 .firstSection{
 
-      background-image: url('./img/bg.jpg');
+      background-image: url('img/bg.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -176,7 +176,7 @@ html{
     background-blend-mode: darken;  */
     /* width:100%; */
     height: 100%;
-    background-image: url('./img/midbg.jpg');
+    background-image: url('img/midbg.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -317,7 +317,7 @@ html{
     background-blend-mode: darken;  */
     /* width:100%; */
     height: 100%;
-    background-image: url('./img/facil.jpg');
+    background-image: url('img/facil.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -459,7 +459,7 @@ html{
     background-blend-mode: darken;  
      height: 115vh; */
 
-    background-image: url('./img/img1.jpg');
+    background-image: url('img/img1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
